@@ -186,7 +186,7 @@ Sucessfully executed the query and get the results from database: <br>
 >- Finance: 1 employee
 >I will create an HTML file with embedded Chart.js to visualize this as a pie chart. The file will be named employee_count_by_department.html and will be self-contained for easy viewing in a browser.
 
-After approving for new file generation successfully created the pie chart as a new html file and opened it: <br>
+After approving for new file generation, successfully created the pie chart as a new html file and opened it: <br>
 
 
 ![Image](https://github.com/user-attachments/assets/86ac6f44-65c9-460f-a9cc-04cbaf162c1c)
