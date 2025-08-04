@@ -203,7 +203,4 @@ Some recommendations as suggested in the blogs and official documentation:
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
    cd YOUR_REPO
-
   ```
-
-
