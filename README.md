@@ -98,7 +98,7 @@ If not already installed and configured:
   OpenAIAPIKey: Paste Your API Key<br>
   Model: gpt-4.1<br>
 
-  Follow instructions to add SQLcl MCP Server to Cline.: <br>
+  Follow instructions to add SQLcl MCP Server to Cline: <br>
   Modify the path with your SQLcl folder location! In my case cline_msp_settings.json config : <br>
   ```bash
   {
