@@ -84,7 +84,7 @@ https://blogs.oracle.com/database/post/how-can-developers-and-dbas-benefit-from-
   You can see your API Keys, credits from your OpenAI profile page: <br>
   https://platform.openai.com/settings/profile/user<br>
 
-  - Install and configure Cline from VSCode Extensions Marketplace:<br>
+- Install and configure Cline from VSCode Extensions Marketplace:<br>
   Follow the instructions on documentation: <br>
   https://docs.oracle.com/en/database/oracle/sql-developer-command-line/25.2/sqcug/starting-and-managing-sqlcl-mcp-server.html#GUID-42167832-B364-4A3E-8A17-9FAE1F6CCFD3 <br>
   
@@ -93,7 +93,7 @@ https://blogs.oracle.com/database/post/how-can-developers-and-dbas-benefit-from-
   OpenAIAPIKey: Paste Your API Key<br>
   Model: gpt-4.1<br>
 
- Follow instructions to add SQLcl MCP Server to Cline.: <br>
+  Follow instructions to add SQLcl MCP Server to Cline.: <br>
   Modify the path with your SQLcl folder location! In my case cline_msp_settings.json config : <br>
   ```bash
   {
@@ -104,18 +104,14 @@ https://blogs.oracle.com/database/post/how-can-developers-and-dbas-benefit-from-
             "disabled": false
         }
     }
-}
+  }
   ```
-Your Cline MCP Servers should look like: <br>
+  Your Cline MCP Servers should look like: <br>
 
-![Image](https://github.com/user-attachments/assets/e15ff979-7d28-4efe-9a6c-681309b47b50)
-
-
+  ![Image](https://github.com/user-attachments/assets/e15ff979-7d28-4efe-9a6c-681309b47b50)
 
 
-
-
-I used and test the SQLcl MCP functionality with connecting to a containerized Oracle23ai database running on Podman on my Mac. <br>
+  I used and test the SQLcl MCP functionality with connecting to a containerized Oracle23ai database running on Podman on my Mac. <br>
 
 Some recommendations as suggested in the blogs and official documentation:
   - Think twice and hard before ever letting the tool connect to a production or any critical database environment.
