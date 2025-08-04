@@ -106,6 +106,13 @@ https://blogs.oracle.com/database/post/how-can-developers-and-dbas-benefit-from-
     }
 }
   ```
+Your Cline MCP Servers should look like: <br>
+
+![Image](https://github.com/user-attachments/assets/e15ff979-7d28-4efe-9a6c-681309b47b50)
+
+
+
+
 
 
 I used and test the SQLcl MCP functionality with connecting to a containerized Oracle23ai database running on Podman on my Mac. <br>
