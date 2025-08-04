@@ -188,7 +188,8 @@ Sucessfully executed the query and get the results from database: <br>
 
 After approving for new file generation successfully created the pie chart as a new html file and opened it: <br>
 
-![Image](https://github.com/user-attachments/assets/bebfdae7-d13f-4dd4-af42-febc598a373d)
+
+![Image](https://github.com/user-attachments/assets/86ac6f44-65c9-460f-a9cc-04cbaf162c1c)
 
 
 Some recommendations as suggested in the blogs and official documentation:
