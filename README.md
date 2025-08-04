@@ -1,4 +1,4 @@
-# 🧪 SQLcl MCP with using VS Code and CoPilot
+# 🧪 SQLcl MCP with using VS Code and Cline
 
 > 💡 Steps to create SQLcl MCP environment with VS Code and Cline on Macos
 
