@@ -21,14 +21,14 @@ This guide includes information related how to:
 ## 🌟 Assumptions
 
 - We need Oracle database connection (In my case Oracle Database 23ai Free image running on Podman on my Mac Notebook, You can use other Oracle Database options as well, like Autonomous Database).<br>
-Instructions related to how to provision Oracle Database 23ai Free container image using Podman on Mac can be found: <br>
-https://github.com/umutnazlica/Podman_Mac_DB23AI_APEX
+  Instructions related to how to provision Oracle Database 23ai Free container image using Podman on Mac can be found: <br>
+  https://github.com/umutnazlica/Podman_Mac_DB23AI_APEX <br>
 
-- In my case i use OpenAI API, We need OpenAI subscription, enough credit to make API calls (no free option, you need to add payment method and add credit) and need to create an API Key to make API calls from Cline. 
+- In my case i use OpenAI API, We need OpenAI subscription, enough credit to make API calls (no free option, you need to add payment method and add credit) and need to create an API Key to make API calls from Cline. <br>
 
-https://openai.com/
-https://platform.openai.com/settings/organization/billing/overview
-https://platform.openai.com/settings/organization/api-keys
+  https://openai.com/<br>
+  https://platform.openai.com/settings/organization/billing/overview<br>
+  https://platform.openai.com/settings/organization/api-keys<br>
 
 
 ## 🌟 Additional Resources
