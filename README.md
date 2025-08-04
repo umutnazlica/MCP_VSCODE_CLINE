@@ -107,6 +107,7 @@ https://blogs.oracle.com/database/post/how-can-developers-and-dbas-benefit-from-
 }
   ```
 
+
 I used and test the SQLcl MCP functionality with connecting to a containerized Oracle23ai database running on Podman on my Mac. <br>
 
 Some recommendations as suggested in the blogs and official documentation:
